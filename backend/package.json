@@ -1,0 +1,15 @@
+{
+  "name": "hello-dagger-backend",
+  "version": "1.0.0",
+  "description": "Backend server with PostgreSQL, Kafka, and Redis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "kafkajs": "^2.2.4",
+    "redis": "^4.6.12"
+  }
+}
