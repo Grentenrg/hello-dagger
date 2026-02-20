@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header>
     <div class="wrapper">
-      <HelloWorld msg="What happens now" />
+      <HelloWorld msg="What happens now is crazy !" />
     </div>
   </header>
 </template>
